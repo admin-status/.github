@@ -8,19 +8,15 @@ The Foundations of Decay and Decoy.
 -------------------------------
 
 
-Seeking for branch
-```code
-[Branch-Sets]
-```
-
+## Warm Greetings 💕
 These templates now, already it running automation as 
 ```code
-[Service] , [Main] , [Custom] , [Etc] ,  [Auto-generated] , [add_item] 
+[Service] , [Main] , [Custom] ,  [Process] , [Etc] , [Auto-listed] , [Auto-generated] , [add_item] 
 ```
 
 Login attempts
 ```code
-[logged-in Successfully to finish ]
+[logged-in Successfully to finish]
 ```
 Before of act, aware and know something first.
 ```code
@@ -28,12 +24,13 @@ Before of act, aware and know something first.
 ```
 
 Yes, Iam
-|    Aware   |    ✅   ]
+| Aware | ✅ |
+Do it by your own risk by answer to continuing finish all?
+| Accepted | ✅ |
 
-Now, be free Get code to check out 
-
+Now, be free, Get code to check out 
 ```code
-<p>This automatic page fetching including contains directory, files, folder, sub folder, settings or configuration files from "/" to inside vscode by Microsoft and process by Github by wonderfully made and auto-listed. Is the easiest way to fetch origin for all of have or some projects. Bring it own or on your own also Author or Owner from that having page or content now, it was here synced, binding,linked, locked and decoding. After your page is up and alredy, now you have time early fast check out as auto new updated the branch:</p>
+<p>This automatic page fetching including contains directory, files, folder, sub folder, settings or configuration files from "/" each from domain on Internet to capture realtime to inside vscode by Microsoft and process by Github by wonderfully made and auto-listed. Is the easiest way to fetch origin for all of have or some projects. Bring it on your own also Author or Owner from that having page or content now, it was here synced, binding,linked, locked and decoding. After your page is up and alredy, now you have time early fast check out as auto new updated the branch:</p>
 ```
 
 check out here
@@ -52,35 +49,31 @@ $ updated successfully
 </code></pre>
 
 also too
-
-<pre><code>$ cd my_or_your_repo_root/repo_name
+<pre><code>$ cd source_on_internet_repo_root/repo_name
 $ git fetch origin
 $ git checkout
 $ updated successfully 
 </code></pre>
 
-*Notice board
+and then 
+<pre><code>$ cd your_repo_root/repo_name
+$ git fetch origin
+$ git checkout
+$ updated successfully 
+</code></pre>
+
+## Notice board 
 ```code
-* Ini ,dan disini tidak bebas risiko, dapat menyebabkan ketergantungan hebat kepada siapapun.
+* Ini ,dan disini tidak bebas risiko, dapat menyebabkan ketergantungan hebat kepada siapapun. Dan ini hanya penggunaan external serta mengakses dan merubah kepada sesuatu yang tidak wajar dan semestinya tidak pada tempatnya, serta ini, hanya ditunjukkan kepada orang, perangkat dan area sangat terbatas. 
+* Wonderfully made by Reyhan Jr.
 ```
 
+## Conclusion
+```code
+[We've got and covered with you]
+```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Finished
+```code
+[All completely successfully, be enjoying]
+```
